@@ -1,0 +1,21 @@
+
+.navbar2 {
+    background-color: #2C3E50 !important;
+    ;
+}
+.image1 {
+     size-adjust: small !important;
+     width: 30px !important;
+ 
+     height: 30px !important;
+
+}
+.divider-custom-line{
+    color: black solid ;
+
+}
+.container1{
+    background-color: #1ABC9C;
+    text-align: center;
+    height: 800px;
+}

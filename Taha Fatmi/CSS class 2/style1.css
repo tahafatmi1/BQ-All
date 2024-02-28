@@ -1,0 +1,37 @@
+.one{
+    border: 1px solid black;
+    width: 600px;
+    height: 600px;
+    position: relative;
+
+}
+.one1{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    top: 150px;
+    left: 300px;
+}
+.one2{
+    
+        border: 1px solid black;
+        width: 100px;
+        height: 100px;
+        background-color:blue;
+        position: absolute;
+        top: 190px;
+        left: 250px;
+
+}
+.one3{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    position:absolute ;
+    top: 250px;
+    left:215px ;
+
+}
